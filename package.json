@@ -8,7 +8,8 @@
     "express": "^4.14.0",
     "express-favicon": "^1.0.1",
     "express-logger": "0.0.3",
-    "method-override": "^2.3.6"
+    "method-override": "^2.3.6",
+    "winston": "^2.2.0"
   },
   "devDependencies": {},
   "scripts": {
